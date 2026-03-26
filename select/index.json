@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "すみれ September Love(2006リマスタリング)",
+  "base_artist": "Ippudo",
+  "createdAt": "2026-03-26T16:49:48.759203Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "すみれ September Love (一風堂)",
+      "artist": "HITOMITOI",
+      "has_synced": false,
+      "path": "select/01_すみれ_September_Love_(一風堂)_HITOMITOI.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "すみれ September Love (original:一風堂)",
+      "artist": "一十三十一",
+      "has_synced": false,
+      "path": "select/02_すみれ_September_Love_(original_一風堂)_一十三十一.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "すみれ September Love",
+      "artist": "FEMM",
+      "has_synced": false,
+      "path": "select/03_すみれ_September_Love_FEMM.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "すみれ",
+      "artist": "PUFFY",
+      "has_synced": true,
+      "path": "select/04_すみれ_PUFFY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "【wav版】兎月りりむ。フリートーク＠すみれ_SE",
+      "artist": "リリムワークス/兎月りりむ。",
+      "has_synced": true,
+      "path": "select/05_【wav版】兎月りりむ。フリートーク@すみれ_SE_リリムワークス_兎月りりむ。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "06_すみれ（26）_CV秋山はるる",
+      "artist": "DEEP IMPACT",
+      "has_synced": true,
+      "path": "select/06_06_すみれ(26)_CV秋山はるる_DEEP_IMPACT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "すみれ September Love",
+      "artist": "一風堂",
+      "has_synced": false,
+      "path": "select/pl_01_すみれ_September_Love_一風堂.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "すみれSeputenba-love",
+      "artist": "一風堂",
+      "has_synced": false,
+      "path": "select/pl_02_すみれSeputenba-love_一風堂.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "すみれSeptember - Love",
+      "artist": "一風堂",
+      "has_synced": false,
+      "path": "select/pl_03_すみれSeptember_-_Love_一風堂.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "すみれ September Love",
+      "artist": "一風堂",
+      "has_synced": false,
+      "path": "select/pl_04_すみれ_September_Love_一風堂.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "すみれSeptember Love",
+      "artist": "一風堂",
+      "has_synced": false,
+      "path": "select/pl_05_すみれSeptember_Love_一風堂.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "すみれSeptember Love",
+      "artist": "一風堂",
+      "has_synced": false,
+      "path": "select/pl_06_すみれSeptember_Love_一風堂.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "すみれ September Love",
+      "artist": "一風堂",
+      "has_synced": false,
+      "path": "select/pl_07_すみれ_September_Love_一風堂.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "すみれ September Love",
+      "artist": "一風堂",
+      "has_synced": false,
+      "path": "select/pl_08_すみれ_September_Love_一風堂.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "すみれ September Love",
+      "artist": "一風堂",
+      "has_synced": false,
+      "path": "select/pl_09_すみれ_September_Love_一風堂.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "すみれ September Love",
+      "artist": "一風堂",
+      "has_synced": false,
+      "path": "select/pl_10_すみれ_September_Love_一風堂.txt"
+    }
+  ]
+}
